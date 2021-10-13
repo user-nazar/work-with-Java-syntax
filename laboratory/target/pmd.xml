@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.21.0" timestamp="2020-03-30T09:55:08.219">
+<file name="C:\projects\iot-2020\lab3\src\main\java\ua\lviv\iot\machinery\manager\MachineryWriter.java">
+<violation beginline="25" endline="26" begincolumn="11" endcolumn="9" rule="EmptyCatchBlock" ruleset="Error Prone" package="ua.lviv.iot.machinery.manager" class="MachineryWriter" method="writeToFile" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="33" endline="34" begincolumn="11" endcolumn="9" rule="EmptyCatchBlock" ruleset="Error Prone" package="ua.lviv.iot.machinery.manager" class="MachineryWriter" method="writeToFile" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+<violation beginline="38" endline="39" begincolumn="15" endcolumn="13" rule="EmptyCatchBlock" ruleset="Error Prone" package="ua.lviv.iot.machinery.manager" class="MachineryWriter" method="writeToFile" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#emptycatchblock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="C:\projects\iot-2020\lab3\src\main\java\ua\lviv\iot\machinery\models\RiderTraceMakerMachine.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="45" rule="ImportFromSamePackage" ruleset="Error Prone" package="ua.lviv.iot.machinery.models" class="RiderTraceMakerMachine" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\projects\iot-2020\lab3\src\main\java\ua\lviv\iot\machinery\models\SkiLiftMakerMachine.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="45" rule="ImportFromSamePackage" ruleset="Error Prone" package="ua.lviv.iot.machinery.models" class="SkiLiftMakerMachine" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+<file name="C:\projects\iot-2020\lab3\src\main\java\ua\lviv\iot\machinery\models\SkisTraceMakerMachine.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="45" rule="ImportFromSamePackage" ruleset="Error Prone" package="ua.lviv.iot.machinery.models" class="SkisTraceMakerMachine" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#importfromsamepackage" priority="3">
+No need to import a type that lives in the same package
+</violation>
+</file>
+</pmd>

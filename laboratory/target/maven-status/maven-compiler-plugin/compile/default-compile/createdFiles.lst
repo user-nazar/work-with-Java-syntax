@@ -1,0 +1,16 @@
+ua\lviv\iot\machinery\models\SkiLiftMakerMachine.class
+ua\lviv\iot\machinery\manager\MachineryManagerUtils.class
+ua\lviv\iot\machinery\App.class
+ua\lviv\iot\machinery\models\FuelType.class
+ua\lviv\iot\machinery\manager\MachineryManagerUtils$SortByLoseFuelPerOneHour.class
+ua\lviv\iot\machinery\models\RiderTraceMakerMachine.class
+ua\lviv\iot\machinery\models\SortType.class
+ua\lviv\iot\machinery\manager\MachineryReader.class
+ua\lviv\iot\machinery\models\SkisTraceMakerMachine.class
+ua\lviv\iot\machinery\manager\MachineryManagerUtils$1LoseFuelAndMileageComparator.class
+ua\lviv\iot\machinery\manager\MachineryManagerUtils$1.class
+ua\lviv\iot\machinery\manager\MachineryManagerUtils$SortByMileage.class
+ua\lviv\iot\machinery\models\WheelType.class
+ua\lviv\iot\machinery\manager\MachineryWriter.class
+ua\lviv\iot\machinery\manager\MachineryManager.class
+ua\lviv\iot\machinery\manager\Machinery.class
